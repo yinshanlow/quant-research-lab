@@ -29,8 +29,12 @@ if __name__ == "__main__":
     ic_series_by_config = []
     for i, params in enumerate(HYPERPARAM_GRID):
         preds = walk_forward_predict(panel, params, CV_START_YEAR, CV_END_YEAR, min_train_years=3)
+        valid_index = preds.index[preds.notna()]
+        aligned_panel = panel.loc[valid_index].reset_index(drop=True)
+        aligned_signal = pd.Series(preds.loc[valid_index].values)
+
         from src.stats import spearman_ic_by_date
-        ic_series = spearman_ic_by_date(panel, preds)
+        ic_series = spearman_ic_by_date(aligned_panel, aligned_signal)
         ic_series = ic_series[(ic_series.index.year >= CV_START_YEAR) & (ic_series.index.year <= CV_END_YEAR)]
 
         mean_ic, lo, hi = block_bootstrap_ci(ic_series, n_boot=10_000, seed=100 + i)

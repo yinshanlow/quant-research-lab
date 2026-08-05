@@ -3,4 +3,6 @@ __pycache__/
 *.pyc
 .pytest_cache/
 data/cache/
+data/monthly_panel.parquet
+data/benchmark_spy.csv
 .DS_Store

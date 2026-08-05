@@ -1,0 +1,281 @@
+{
+  "AAPL": {
+    "cache_sha256": "1db4c25e97975d64a09569b8b9bebe11c6e1c91d2375bf6d4201fb6f2013b9a6",
+    "end": "2026-08-04",
+    "fetched_at_utc": "2026-08-04T17:32:48.795126+00:00",
+    "interval": "1d",
+    "n_rows": 5030,
+    "range": "20y",
+    "start": "2006-08-04"
+  },
+  "ABT": {
+    "cache_sha256": "d331b1b0fb529b70b581dbbc55eaded6833465be3f35512d8351a3a7a5f1ebc3",
+    "end": "2026-08-04",
+    "fetched_at_utc": "2026-08-04T17:32:51.874793+00:00",
+    "interval": "1d",
+    "n_rows": 5030,
+    "range": "20y",
+    "start": "2006-08-04"
+  },
+  "BA": {
+    "cache_sha256": "6effe64c407dedf72827057fde929d9d7cb1166ce6a57d75081f5f03b6f3105c",
+    "end": "2026-08-04",
+    "fetched_at_utc": "2026-08-04T17:32:55.074760+00:00",
+    "interval": "1d",
+    "n_rows": 5030,
+    "range": "20y",
+    "start": "2006-08-04"
+  },
+  "BAC": {
+    "cache_sha256": "05bb54176e0cdc90cbdb9084c8fe6c6b7cce9c77d577a66559dc871f735a3b19",
+    "end": "2026-08-04",
+    "fetched_at_utc": "2026-08-04T17:32:50.152860+00:00",
+    "interval": "1d",
+    "n_rows": 5030,
+    "range": "20y",
+    "start": "2006-08-04"
+  },
+  "C": {
+    "cache_sha256": "4b497d045c3710685566cdbb0ee7090c5276a45f63790b9909a352f8c33119f0",
+    "end": "2026-08-04",
+    "fetched_at_utc": "2026-08-04T17:32:50.845172+00:00",
+    "interval": "1d",
+    "n_rows": 5030,
+    "range": "20y",
+    "start": "2006-08-04"
+  },
+  "CAT": {
+    "cache_sha256": "56a39dacf856c13f26e6931193ef09f7343eb71be866b5bcea8963ca4dfe296f",
+    "end": "2026-08-04",
+    "fetched_at_utc": "2026-08-04T17:32:55.344271+00:00",
+    "interval": "1d",
+    "n_rows": 5030,
+    "range": "20y",
+    "start": "2006-08-04"
+  },
+  "COP": {
+    "cache_sha256": "cfcabc4468c84c8eee4472f87ac68521a6e71cade3ce615d350f09effd4aed8e",
+    "end": "2026-08-04",
+    "fetched_at_utc": "2026-08-04T17:32:52.868543+00:00",
+    "interval": "1d",
+    "n_rows": 5030,
+    "range": "20y",
+    "start": "2006-08-04"
+  },
+  "CSCO": {
+    "cache_sha256": "08bd71c41621aee029ad327af8ffa4d198a5a5742ab64f2528d890183d365c01",
+    "end": "2026-08-04",
+    "fetched_at_utc": "2026-08-04T17:32:53.344769+00:00",
+    "interval": "1d",
+    "n_rows": 5030,
+    "range": "20y",
+    "start": "2006-08-04"
+  },
+  "CVX": {
+    "cache_sha256": "35909f352adf9a4c5546cc278a5712bb5a98e4da4939493fedab89638b0e8e11",
+    "end": "2026-08-04",
+    "fetched_at_utc": "2026-08-04T17:32:52.643836+00:00",
+    "interval": "1d",
+    "n_rows": 5030,
+    "range": "20y",
+    "start": "2006-08-04"
+  },
+  "GE": {
+    "cache_sha256": "24b50d269722b5d4c6690a932b3c4a462d2317a0a2554c5bbd2fcb108993b712",
+    "end": "2026-08-04",
+    "fetched_at_utc": "2026-08-04T17:32:55.599425+00:00",
+    "interval": "1d",
+    "n_rows": 5030,
+    "range": "20y",
+    "start": "2006-08-04"
+  },
+  "GS": {
+    "cache_sha256": "fac5b5037bdc216f0b63862655420aebd0e718d9f4ea9f623b60ea0d256ee211",
+    "end": "2026-08-04",
+    "fetched_at_utc": "2026-08-04T17:32:50.615839+00:00",
+    "interval": "1d",
+    "n_rows": 5030,
+    "range": "20y",
+    "start": "2006-08-04"
+  },
+  "HD": {
+    "cache_sha256": "b83eb651ae8e488ad874ce9c9ffbbea63479867bff93dd89ac2e460690bb231c",
+    "end": "2026-08-04",
+    "fetched_at_utc": "2026-08-04T17:32:54.549090+00:00",
+    "interval": "1d",
+    "n_rows": 5030,
+    "range": "20y",
+    "start": "2006-08-04"
+  },
+  "HON": {
+    "cache_sha256": "118423ddb2ac55fed71ca034e71897b05a059f94751d5fd5847324c7c4fc9678",
+    "end": "2026-08-04",
+    "fetched_at_utc": "2026-08-04T17:32:55.883969+00:00",
+    "interval": "1d",
+    "n_rows": 5030,
+    "range": "20y",
+    "start": "2006-08-04"
+  },
+  "IBM": {
+    "cache_sha256": "c2021a97220b9149d950be8f9a7f65e36405b96b65a7faee29aaf9c2f08e63f9",
+    "end": "2026-08-04",
+    "fetched_at_utc": "2026-08-04T17:32:49.459945+00:00",
+    "interval": "1d",
+    "n_rows": 5030,
+    "range": "20y",
+    "start": "2006-08-04"
+  },
+  "INTC": {
+    "cache_sha256": "e90d0330ff1ec4c910c3ad1709d1bfb8b705d34fc80800a1c40f2dbfda8785e8",
+    "end": "2026-08-04",
+    "fetched_at_utc": "2026-08-04T17:32:49.675484+00:00",
+    "interval": "1d",
+    "n_rows": 5030,
+    "range": "20y",
+    "start": "2006-08-04"
+  },
+  "JNJ": {
+    "cache_sha256": "fabda6855bcbbd53d15e0409a3dcd7473cd4ebd1cbbb3bb9ee4facd135eb700c",
+    "end": "2026-08-04",
+    "fetched_at_utc": "2026-08-04T17:32:51.103987+00:00",
+    "interval": "1d",
+    "n_rows": 5030,
+    "range": "20y",
+    "start": "2006-08-04"
+  },
+  "JPM": {
+    "cache_sha256": "abbfb52ca220ba6b5c7fb9b0d24f4e5e84157afd666741ef20a0bdebbb8e48f6",
+    "end": "2026-08-04",
+    "fetched_at_utc": "2026-08-04T17:32:49.896387+00:00",
+    "interval": "1d",
+    "n_rows": 5030,
+    "range": "20y",
+    "start": "2006-08-04"
+  },
+  "KO": {
+    "cache_sha256": "de79db4876b8921a8027cfa224e43a4e5014d43075141504b297464cedc1d83a",
+    "end": "2026-08-04",
+    "fetched_at_utc": "2026-08-04T17:32:53.842897+00:00",
+    "interval": "1d",
+    "n_rows": 5030,
+    "range": "20y",
+    "start": "2006-08-04"
+  },
+  "MCD": {
+    "cache_sha256": "ccea37f7d5c2153a642712e5d03d46f7d92ec99be90cceec34a95244e8d5adb0",
+    "end": "2026-08-04",
+    "fetched_at_utc": "2026-08-04T17:32:54.817058+00:00",
+    "interval": "1d",
+    "n_rows": 5030,
+    "range": "20y",
+    "start": "2006-08-04"
+  },
+  "MRK": {
+    "cache_sha256": "ce4c7a38dd60acdb472a271504186795335df60d9a373954eb4ff13c4174b1fd",
+    "end": "2026-08-04",
+    "fetched_at_utc": "2026-08-04T17:32:51.648024+00:00",
+    "interval": "1d",
+    "n_rows": 5030,
+    "range": "20y",
+    "start": "2006-08-04"
+  },
+  "MSFT": {
+    "cache_sha256": "a0234203c8d4425dd178e18995b3bb6e2f80944e9d4b442ce2634c5f96f729d6",
+    "end": "2026-08-04",
+    "fetched_at_utc": "2026-08-04T17:32:48.992422+00:00",
+    "interval": "1d",
+    "n_rows": 5030,
+    "range": "20y",
+    "start": "2006-08-04"
+  },
+  "ORCL": {
+    "cache_sha256": "47b3c6cdaab5a8da95c875b23e58e36edc85dbfaac9d529109559a686d4af0d3",
+    "end": "2026-08-04",
+    "fetched_at_utc": "2026-08-04T17:32:49.174283+00:00",
+    "interval": "1d",
+    "n_rows": 5030,
+    "range": "20y",
+    "start": "2006-08-04"
+  },
+  "PEP": {
+    "cache_sha256": "74597075904610d59e7327c3e737882bec161405a025d1b17765bf1493e2e9e6",
+    "end": "2026-08-04",
+    "fetched_at_utc": "2026-08-04T17:32:54.077706+00:00",
+    "interval": "1d",
+    "n_rows": 5030,
+    "range": "20y",
+    "start": "2006-08-04"
+  },
+  "PFE": {
+    "cache_sha256": "03ae444e446e49be17d1207601fac431439a3cf44e1b17e9b316593756b4ef22",
+    "end": "2026-08-04",
+    "fetched_at_utc": "2026-08-04T17:32:51.352703+00:00",
+    "interval": "1d",
+    "n_rows": 5030,
+    "range": "20y",
+    "start": "2006-08-04"
+  },
+  "PG": {
+    "cache_sha256": "78545737125c8e47ef2b7158af47b75b383d62cc4881c24c0f6b6015918c870d",
+    "end": "2026-08-04",
+    "fetched_at_utc": "2026-08-04T17:32:53.601027+00:00",
+    "interval": "1d",
+    "n_rows": 5030,
+    "range": "20y",
+    "start": "2006-08-04"
+  },
+  "SLB": {
+    "cache_sha256": "e34b3cee7bebb66b5e59538f08bc9f6a2f86f51a8d7a928e9515ec4d75709bfb",
+    "end": "2026-08-04",
+    "fetched_at_utc": "2026-08-04T17:32:53.144806+00:00",
+    "interval": "1d",
+    "n_rows": 5030,
+    "range": "20y",
+    "start": "2006-08-04"
+  },
+  "SPY": {
+    "cache_sha256": "85ea6cd4cc153dd938d224f80948cb3f6735e046074e3ef584675364107ae220",
+    "end": "2026-08-04",
+    "fetched_at_utc": "2026-08-04T17:32:56.111520+00:00",
+    "interval": "1d",
+    "n_rows": 5030,
+    "range": "20y",
+    "start": "2006-08-04"
+  },
+  "UNH": {
+    "cache_sha256": "f066a9cbed75515b3a4af8a258eac4051b9bf362b5aefdbe73cbeab882c16550",
+    "end": "2026-08-04",
+    "fetched_at_utc": "2026-08-04T17:32:52.098199+00:00",
+    "interval": "1d",
+    "n_rows": 5030,
+    "range": "20y",
+    "start": "2006-08-04"
+  },
+  "WFC": {
+    "cache_sha256": "378b2899c267d56ef8d252b0afab23dc4691223d4538309763a712c94c580eae",
+    "end": "2026-08-04",
+    "fetched_at_utc": "2026-08-04T17:32:50.401492+00:00",
+    "interval": "1d",
+    "n_rows": 5030,
+    "range": "20y",
+    "start": "2006-08-04"
+  },
+  "WMT": {
+    "cache_sha256": "ce73931feb4238048ea1aa8ccb56117bf86346c15540b71a64d1d1eedd2e9165",
+    "end": "2026-08-04",
+    "fetched_at_utc": "2026-08-04T17:32:54.334776+00:00",
+    "interval": "1d",
+    "n_rows": 5030,
+    "range": "20y",
+    "start": "2006-08-04"
+  },
+  "XOM": {
+    "cache_sha256": "08dab032408955c72899acdaa60103e54aea458fab69e5524cf5dbcc2eae6252",
+    "end": "2026-08-04",
+    "fetched_at_utc": "2026-08-04T17:32:52.357248+00:00",
+    "interval": "1d",
+    "n_rows": 5030,
+    "range": "20y",
+    "start": "2006-08-04"
+  }
+}

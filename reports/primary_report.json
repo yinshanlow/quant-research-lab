@@ -1,0 +1,43 @@
+{
+  "selected_config": {
+    "selected_config_id": "B",
+    "params": {
+      "max_depth": 2,
+      "n_estimators": 200,
+      "learning_rate": 0.05
+    },
+    "selection_note": "NO config survived BH-FDR at the selection stage \u2014 falling back to the highest-IC config per the pre-registered rule; this is disclosed, not hidden"
+  },
+  "oos_window": "2021-01-29 to 2026-06-30",
+  "n_oos_months": 66,
+  "G1_ic_significance": {
+    "mean_ic": 0.021820379978948565,
+    "ci": [
+      -0.030876776311799164,
+      0.07698654015213184
+    ],
+    "pass": false
+  },
+  "G2_beats_baseline": {
+    "ml_sharpe": -0.08926259665507161,
+    "baseline_sharpe": 0.029474587070735962,
+    "pass": false
+  },
+  "G3_paired_significance": {
+    "mean_diff": -0.0015874323156546209,
+    "ci": [
+      -0.018867647753852364,
+      0.016708792621158267
+    ],
+    "pass": false
+  },
+  "G4_permutation_validity": {
+    "mean_ic": 0.012883224580263508,
+    "ci": [
+      -0.04667554637456908,
+      0.07341830417922567
+    ],
+    "pass": true
+  },
+  "verdict": "NOT PROMOTED \u2014 H1 not confirmed on this OOS sample"
+}

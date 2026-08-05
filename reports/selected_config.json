@@ -1,0 +1,9 @@
+{
+  "selected_config_id": "B",
+  "params": {
+    "max_depth": 2,
+    "n_estimators": 200,
+    "learning_rate": 0.05
+  },
+  "selection_note": "NO config survived BH-FDR at the selection stage \u2014 falling back to the highest-IC config per the pre-registered rule; this is disclosed, not hidden"
+}

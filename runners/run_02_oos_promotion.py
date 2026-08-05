@@ -45,7 +45,7 @@ if __name__ == "__main__":
 
     selected = json.loads(SELECTED_CONFIG_PATH.read_text())
     params = selected["params"]
-    print(f"Selected config: {selected['config_id']} = {params} ({selected['selection_note']})")
+    print(f"Selected config: {selected['selected_config_id']} = {params} ({selected['selection_note']})")
 
     # --- ML signal, walk-forward across OOS ---
     oos_panel, ml_signal_oos = _predict_and_align(panel, params, OOS_START_YEAR, oos_end_year)
@@ -102,7 +102,7 @@ if __name__ == "__main__":
         "",
         f"**Verdict: {verdict}**",
         "",
-        f"Selected config: **{selected['config_id']}** = `{params}`",
+        f"Selected config: **{selected['selected_config_id']}** = `{params}`",
         f"OOS window: {report['oos_window']} ({n_oos_months} months)",
         "",
         "| Gate | Result | Pass? |",
