@@ -1,5 +1,9 @@
 # Quant Research Lab — Does an ML Signal Beat a Hand-Crafted Momentum Rule?
 
+**[▶ Live dashboard](https://yinshanlow-quant-research-lab.streamlit.app)** — the
+pre-registration, both phase reports, and the figures, presented as a
+browsable research report.
+
 **Verdict: not promoted.** A pre-registered, falsification-first test of
 whether a gradient-boosted (XGBoost) model combining five standard
 cross-sectional equity factors produces genuine out-of-sample edge over a
